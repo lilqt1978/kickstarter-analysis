@@ -22,3 +22,4 @@ Only 2 goals were semi close to meeting. The rest had varied results depending o
 
 - What are some other possible tables and/or graphs that we could create?
 We could create a bar graph to show a visual of the outcomes or pivot chart
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90349936/134831060-40c89836-69fb-41db-9d36-2f6e1b5780df.png)
